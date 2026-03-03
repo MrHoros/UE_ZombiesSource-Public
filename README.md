@@ -1,4 +1,4 @@
-# HornyAndZombiesSource-Public
+UE_ZombiesSource-Public
 Source code and blueprints for Horny&amp;Zombies
 UE 4.27.2
 
